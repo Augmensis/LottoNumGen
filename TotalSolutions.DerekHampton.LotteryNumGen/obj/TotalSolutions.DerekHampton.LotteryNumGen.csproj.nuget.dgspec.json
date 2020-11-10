@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\TotalSolutions.DerekHampton\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj": {}
+    "D:\\Dev\\demo\\LottoNumGen\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\TotalSolutions.DerekHampton\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj": {
+    "D:\\Dev\\demo\\LottoNumGen\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\TotalSolutions.DerekHampton\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj",
+        "projectUniqueName": "D:\\Dev\\demo\\LottoNumGen\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj",
         "projectName": "TotalSolutions.DerekHampton.LotteryNumGen",
-        "projectPath": "D:\\Dev\\TotalSolutions.DerekHampton\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj",
+        "projectPath": "D:\\Dev\\demo\\LottoNumGen\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj",
         "packagesPath": "C:\\Users\\derek\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\TotalSolutions.DerekHampton\\TotalSolutions.DerekHampton.LotteryNumGen\\obj\\",
+        "outputPath": "D:\\Dev\\demo\\LottoNumGen\\TotalSolutions.DerekHampton.LotteryNumGen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

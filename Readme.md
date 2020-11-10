@@ -5,7 +5,7 @@ Written in ASP.NET Core 3.1 MVC.
 
 ## Installation & Usage
 
-1. Clone the project and open the solution in visual studio.
+1. Clone the project "TotalSolutions.DerekHampton.LotteryNumGen.sln" and open the solution in visual studio.
 
 ```bash
 git clone https://github.com/Augmensis/LottoNumGen.git

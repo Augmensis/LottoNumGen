@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QgHrbUQPLKbmrq0W++57LE/YS18Vymzplh1mt3EwgFBNva/pFSOHhgO/Ll6ippJbNYf7EseezHZOAGdupF8qTA==",
+  "dgSpecHash": "V1FX8B5hqHnyRd348ZOO3+Uako2MZ/n0UqDL/bb0GrzXerCYT/ge6Pot0s3/ugG6rCI5GA6H+bhznbUSvvKdWw==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\TotalSolutions.DerekHampton\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj",
+  "projectFilePath": "D:\\Dev\\demo\\LottoNumGen\\TotalSolutions.DerekHampton.LotteryNumGen\\TotalSolutions.DerekHampton.LotteryNumGen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\derek\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.9\\microsoft.aspnetcore.mvc.razor.extensions.3.1.9.nupkg.sha512",
     "C:\\Users\\derek\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.9\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.9.nupkg.sha512",
